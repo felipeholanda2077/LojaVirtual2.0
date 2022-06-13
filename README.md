@@ -1,5 +1,5 @@
 # React Native Loja Roupas
-App criado para exemplificar o uso de navegações com o React Navigation (Stack, Tab e Drawer), uso de Modal, FlatList e ícones.
+App criado para exemplificar o uso de navegações com o React Navigation para uma atividade do Senac, criação de um app de loja de roupas.
 
 ## Instalação
 1. Clone esse repositório ou faça o download dos arquivos
