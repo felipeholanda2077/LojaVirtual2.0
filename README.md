@@ -1,4 +1,4 @@
-# React Native Loja Games Exemplo
+# React Native Loja Roupas
 App criado para exemplificar o uso de navegações com o React Navigation (Stack, Tab e Drawer), uso de Modal, FlatList e ícones.
 
 ## Instalação
@@ -13,11 +13,11 @@ App criado para exemplificar o uso de navegações com o React Navigation (Stack
 
 <table>
  <tr>
-    <td><img width="300" src="https://github.com/lucasfrag/React-Native-Loja-Games-Exemplo/blob/master/Screenshots/01.png" ></td>
-    <td><img width="300" src="https://github.com/lucasfrag/React-Native-Loja-Games-Exemplo/blob/master/Screenshots/02.png" ></td>
-    <td><img width="300" src="https://github.com/lucasfrag/React-Native-Loja-Games-Exemplo/blob/master/Screenshots/03.png" ></td>
-    <td><img width="300" src="https://github.com/lucasfrag/React-Native-Loja-Games-Exemplo/blob/master/Screenshots/04.png" ></td>
-    <td><img width="300" src="https://github.com/lucasfrag/React-Native-Loja-Games-Exemplo/blob/master/Screenshots/05.png" ></td>
+    <td><img width="300" src="" ></td>
+    <td><img width="300" src="" ></td>
+    <td><img width="300" src="" ></td>
+    <td><img width="300" src="" ></td>
+    <td><img width="300" src="" ></td>
   </tr>
 </table>
 
