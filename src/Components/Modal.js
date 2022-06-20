@@ -12,6 +12,7 @@ const Detalhes = (props) => {
       setModal(!getModal);
     };
   
+    
     return (
       <View>
         <TouchableOpacity style={{justifyContent: 'center', alignItems: 'center'}} onPress={() => {Linking.openURL("https://www.lojasrenner.com.br/p/jaqueta-alongada-jeans-com-patches-e-bolsos/-/A-625815568-br.lr?sku=625815592")}}>
