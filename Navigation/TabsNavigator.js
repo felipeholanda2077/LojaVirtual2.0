@@ -4,6 +4,7 @@ import Home from '../src/Screens/Home'
 import Categorias from '../src/Screens/Categorias';
 import Sobre from '../src/Screens/Sobre';
 import Icon from 'react-native-vector-icons/Ionicons';
+import Cartao from '../src/Screens/Cartao';
 
 const Tabs = createBottomTabNavigator();
 const TabsNavigator = () => {
@@ -28,6 +29,11 @@ const TabsNavigator = () => {
           ? 'info'
           : 'info-outline';
         }
+        else if (route.name === 'Cartões') {
+          iconName = focused
+          ? 'card'
+          : 'card-outline';
+        }
 
         // Retornamos o ícone
         return <Icon name={iconName} size={size} color={color} />;
@@ -50,6 +56,10 @@ const TabsNavigator = () => {
       <Tabs.Screen 
         name="Sobre" 
         component={Sobre}      
+      />
+      <Tabs.Screen 
+        name="Cartões" 
+        component={Cartao}      
       />
     </Tabs.Navigator>
   );

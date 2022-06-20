@@ -35,13 +35,6 @@ export default function Home() {
         RedesSociais.push(<Image style={{ alignSelf: 'center', width: 370, height: 100, margin: 10, borderRadius: 10 }} source={{ uri: Redes }} />)
     }
 
-    let Meiospagamento = "https://cdn.shopify.com/s/files/1/0495/6241/9360/files/imagem_2021-12-24_112908_x200.png?v=1640356151";
-
-    let Meiosdepagamento = []
-    for (let i = 0; i < 1; i++) {
-      Meiosdepagamento.push(<Image style={{ alignSelf: 'center', width: 390, height: 120, margin: 10 }} source={{ uri: Meiospagamento }} />)
-    }
-        
 
 
 
@@ -85,9 +78,6 @@ export default function Home() {
 
             {RedesSociais}
       
-            <Text style={{ color: 'black', fontSize: 20, textAlign: 'left', margin: 50, paddingTop: 10 }}>Aceitamos as segintes bandeiras:</Text>
-
-            {Meiosdepagamento}
 
             <Text style={{ color: 'black', fontSize: 13, textAlign: 'center', paddingTop: 50, paddingBottom: 20 }}>© Felipe Holanda - BAZAAR 2022</Text>
             
