@@ -1,6 +1,10 @@
 # React Native Loja Roupas
 App criado para exemplificar o uso de navegações com o React Navigation para uma atividade do Senac, criação de um app de loja de roupas.
 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 ## Instalação
 1. Clone esse repositório ou faça o download dos arquivos
 2. Abra o projeto no Visual Studio Code
