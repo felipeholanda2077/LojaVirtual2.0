@@ -21,9 +21,9 @@ App criado para exemplificar o uso de navegações com o React Navigation para u
  <tr>
     <td><img width="300" src="./img/Perfil1.png" ></td>
     <td><img width="300" src="./img/Perfil2.png" ></td>
-    <td><img width="300" src="" ></td>
-    <td><img width="300" src="" ></td>
-    <td><img width="300" src="" ></td>
+    <td><img width="300" src="./img/Perfil2.png" ></td>
+    <td><img width="300" src="./img/Perfil2.png" ></td>
+    <td><img width="300" src="./img/Perfil2.png" ></td>
   </tr>
 </table>
 
