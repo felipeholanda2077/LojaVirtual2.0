@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { View, Text, Image, Button, TouchableOpacity, ScrollView, Linking } from 'react-native'
 import Modal from "react-native-modal";
-import Produto from '../Screens/Produto';
+import Produto from '../../Navigation/StackNavigator';
 
 
 // Criação do Modal
@@ -15,7 +15,7 @@ const Detalhes = (props) => {
 
   return (
     <View>
-      <TouchableOpacity style={{ justifyContent: 'center', alignItems: 'center' }} onPress={() => { Linking.openURL("https://www.lojasrenner.com.br/p/jaqueta-alongada-jeans-com-patches-e-bolsos/-/A-625815568-br.lr?sku=625815592") }}>
+      <TouchableOpacity style={{ justifyContent: 'center', alignItems: 'center' }} onPress={() => {Linking.openURL("https://www.lojasrenner.com.br/p/jaqueta-alongada-jeans-com-patches-e-bolsos/-/A-625815568-br.lr?sku=625815592")} }>
         <Text style={{ color: '#03c0ff' }}>Ver detalhes</Text>
       </TouchableOpacity>
 
