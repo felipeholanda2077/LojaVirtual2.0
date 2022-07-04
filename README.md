@@ -45,7 +45,7 @@ App criado para exemplificar o uso de navegações com o React Navigation para u
   <h1 align="center">Siga-me</h1>
   <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 <br>[See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
   
-  <br><br>
+  <br>
   
    <p align="center">---------------END--------------</p>
 
